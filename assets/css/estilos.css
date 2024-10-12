@@ -1,3 +1,16 @@
 .wbullets{
     list-style: none;
 }
+a{
+    text-decoration: none;
+    font-size: 17px;
+}
+p{
+    font-size: 17px;
+}
+a:hover{
+    color: blue !important;
+}
+i{
+    font-size: 25px;
+}
